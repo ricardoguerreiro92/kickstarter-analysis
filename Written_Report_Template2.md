@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### The purpose of this project is to use the kickstarter data to help a better understanding on how fundraises fare throughout the year and verify when is the best time of the year to launch them for a better chance at success.
+- The purpose of this project is to use the kickstarter data to help a better understanding on how fundraises fare throughout the year and verify when is the best time of the year to launch them for a better chance at success.
 
 ## Analyzis and Challenges
 ![Theater Outcomes based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
