@@ -5,8 +5,8 @@
 - The purpose of this project is to use the kickstarter data to help a better understanding on how fundraises fare throughout the year and verify when is the best time of the year to launch them for a better chance at success.
 
 ## Analyzis and Challenges
-### ![Outcomes based on Launch date](./resources/Theater_Outcomes_vs_Launch.png)
-### ![Outcomes based on Goals](./resources/Outcomes_vs_Goals.png)
+![Outcomes based on Launch Dates](./resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes based on Goals](./resources/Outcomes_vs_Goals.png)
 
 ### By analyzing the fundraisers for plays based on goals we verified  
 
